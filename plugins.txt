@@ -1,12 +1,1 @@
-testlink:latest
-build-pipeline-plugin:latest
-http_request:latest
-slack:latest
-docker-workflow:latest
-sonar:latest
-google-login:latest
-github-oauth:latest
-anchore-container-scanner:latest
-aqua-microscanner:latest
-fortify-on-demand-uploader:latest
-sonar-quality-gates:latest
+authorize-project:latest
